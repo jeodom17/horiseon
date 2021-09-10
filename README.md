@@ -4,3 +4,7 @@ Attached is a the refractored Horiseon site. There are changes to html elements,
 
 https://github.com/jeodom17/horiseon
 
+https://jeodom17.github.io/horiseon/
+
+
+
